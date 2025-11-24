@@ -1,5 +1,7 @@
 # Chatbot Testing System
 
+This project is designed to evaluate how well a chatbot understands and responds to both original and paraphrased questions. It uses the PEGASUS model to generate paraphrased test inputs and compares the chatbot’s accuracy and response time across different variations of the same query.
+
 ### Getting Started
 
 1. Clone the repository:
